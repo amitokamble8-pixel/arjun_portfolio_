@@ -29,8 +29,8 @@ export const PROFILE = {
     twitter: "",
   },
   cv: "/cv.pdf",
-  photo: "/placeholder.png",
-  aboutPhoto: "/placeholder.png",
+  photo: "",
+  aboutPhoto: "",
 };
 
 export const NAV = [
